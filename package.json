@@ -1,0 +1,9 @@
+{
+  "name": "FRNDS-cloud",
+  "version": "1.0.0",
+  "description": "Serverless dating API on Vercel",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
